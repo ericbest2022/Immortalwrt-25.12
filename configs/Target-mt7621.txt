@@ -5,12 +5,12 @@ CONFIG_TARGET_MULTI_PROFILE=y
 CONFIG_TARGET_DEVICE_ramips_mt7621_DEVICE_xiaomi_mi-router-3g=y
 #D1 CONFIG_TARGET_DEVICE_ramips_mt7621_DEVICE_asus_rt-ax53u=y
 #D1 CONFIG_TARGET_DEVICE_ramips_mt7621_DEVICE_asus_rt-ax54=y
-#D1 CONFIG_TARGET_DEVICE_ramips_mt7621_DEVICE_cudy_m1300-v2=y
+CONFIG_TARGET_DEVICE_ramips_mt7621_DEVICE_cudy_m1300-v2=y
 #D1 CONFIG_TARGET_DEVICE_ramips_mt7621_DEVICE_hiwifi_hc5962=y
 #D1 CONFIG_TARGET_DEVICE_ramips_mt7621_DEVICE_jcg_q20=y
 #D1 CONFIG_TARGET_DEVICE_ramips_mt7621_DEVICE_jdcloud_re-cp-02=y
 #D1 CONFIG_TARGET_DEVICE_ramips_mt7621_DEVICE_ruijie_rg-ew1200g-pro-v1.1=y
-CONFIG_TARGET_DEVICE_ramips_mt7621_DEVICE_xiaomi_mi-router-cr660x=y
+#D1 CONFIG_TARGET_DEVICE_ramips_mt7621_DEVICE_xiaomi_mi-router-cr660x=y
 
 
 #极简版插件（放过这个CPU吧）
