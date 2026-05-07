@@ -127,7 +127,7 @@ jobs:
         [ -f $PLATFORM_FILE ] && cat $PLATFORM_FILE >> openwrt/.config
         cd openwrt
         chmod +x $GITHUB_WORKSPACE/$SETTINGS_SH && $GITHUB_WORKSPACE/$SETTINGS_SH
-        chmod +x $GITHUB_WORKSPACE/$PACKAGES_SH && $GITHUB_WORKSPACE/$PACKAGES_SH
+#        chmod +x $GITHUB_WORKSPACE/$PACKAGES_SH && $GITHUB_WORKSPACE/$PACKAGES_SH
 
     - name: 下载文件
       run: |
