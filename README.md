@@ -1,3 +1,13 @@
+
+# ImmortalWrt-25.12
+    Cudy-TR3000-V1-112M
+    360T7
+    Xiaomi AX3000T 112M
+
+## WiFi加密方式WPA3有些低端设备连接不上
+
+
+
 ## License
 
 [MIT](https://github.com/P3TERX/Actions-OpenWrt/blob/main/LICENSE) © [**P3TERX**](https://p3terx.com)   
